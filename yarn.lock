@@ -2,10 +2,12 @@
 # yarn lockfile v1
 
 
-"@flydiverny/renovate-bug-dep@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@flydiverny/renovate-bug-dep/-/renovate-bug-dep-1.0.2.tgz#e950180281557125ef215aa231d030ce2fa6d2c0"
-  integrity sha512-ZaIuDop4UFUzFPqnCm7E7DDPcQB+EalYfASzAbSF6gy8QalrTZ/Lx8OJE58hcZ2ZT4uzG2XxG9zIrvDNFjIYEg==
+"@flydiverny/renovate-bug-dep@1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@flydiverny/renovate-bug-dep/-/renovate-bug-dep-1.1.4.tgz#49b1c8484817ff8ea73b234a297878846ba2f8d6"
+  integrity sha512-xHByvRVtBi44vcuEGzx55a9DxczEYd2IKbef3/hHfukThzgGDrVrvnAUtn9SWrGR/bWXxh+7bXeYoAnxQAv5Iw==
+  dependencies:
+    "@flydiverny/renovate-bug" "1.0.2"
 
 "@flydiverny/renovate-bug@1.0.2":
   version "1.0.2"
