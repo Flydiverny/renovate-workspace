@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@flydiverny/renovate-bug-dep/-/renovate-bug-dep-1.0.2.tgz#e950180281557125ef215aa231d030ce2fa6d2c0"
   integrity sha512-ZaIuDop4UFUzFPqnCm7E7DDPcQB+EalYfASzAbSF6gy8QalrTZ/Lx8OJE58hcZ2ZT4uzG2XxG9zIrvDNFjIYEg==
 
-"@flydiverny/renovate-bug@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@flydiverny/renovate-bug/-/renovate-bug-1.0.2.tgz#72b2c0e587474df070dbfaab1e417f38dbaddfeb"
-  integrity sha512-CvDFd0703FFQ5NVumW1W5YuQ73qYXZu1AAWG3gNqx41CCfF5scUozHk6Cu8zrrYrZoIz9sbzp9g9GRp1PD5ElA==
+"@flydiverny/renovate-bug@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@flydiverny/renovate-bug/-/renovate-bug-2.0.2.tgz#b2c726823fac029b9ffad1e0a9fcaea7424fffea"
+  integrity sha512-YKIskwRROwKA8VSU7QMDwGDKpua5rjAIVzyhxXzcw9S30yClBcxAZa61yCFgB9ol/JOC3lci2N3xVPRtlRrqEA==
